@@ -1,0 +1,34 @@
+# Datasets
+Source Code and Dataset/CZU-MHAD-skeleton_mat/
+*.mat
+*.skeleton
+
+# Training Artifacts
+checkpoints/
+results/
+training_output_full_dataset.txt
+training_output.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editor
+.vscode/
+.idea/
+.cursorignore
