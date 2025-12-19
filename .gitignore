@@ -18,7 +18,19 @@ __pycache__/
 venv/
 env/
 
-# LaTeX
+# LaTeX Source
+Main_file.tex
+Main_file.pdf
+sn-bibliography.bib
+sn-jnl.cls
+sn-mathphys-num.bst
+
+# Figures and Archive
+figures/
+archive/
+"git repo HAR with Reservoir Computing/"
+
+# LaTeX Auxiliary
 *.aux
 *.bbl
 *.blg
