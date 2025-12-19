@@ -81,8 +81,8 @@ If you use this code or framework in your research, please cite our paper:
 ```bibtex
 @article{ghazouani2025bidirectional,
   title={Bidirectional Reservoir Computing for High-Efficiency Skeleton-Based Human Action Recognition},
-  author={Ghazouani, Haythem and others},
-  journal={Journal Name},
+  author={Ghazouani, Haythem and Barhoumi, Walid},
+  journal={Under Review},
   year={2025}
 }
 ```
