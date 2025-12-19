@@ -5,7 +5,7 @@
 
 Official implementation of the Bidirectional Reservoir Computing (Bi-RC) framework for high-efficiency Skeleton-based Human Action Recognition.
 
-## 🚀 Overview
+## Overview
 
 This repository provides a modular, computationally lightweight framework for human action recognition using skeleton data. By decoupling spatiotemporal feature extraction from non-linear mapping, the system achieves state-of-the-art efficiency (up to 95% reduction in training cost) while maintaining competitive accuracy on large-scale benchmarks.
 
